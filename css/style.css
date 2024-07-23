@@ -84,6 +84,12 @@
     font-size: 15px;
 }
 
+.mw-100:hover {
+    transform: scale(1.1);
+    transition: 4s;
+
+}
+
 @media screen and (max-width:800px){
     .pie-pagina .grupo-1{
         width: 55%;
